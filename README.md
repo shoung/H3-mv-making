@@ -65,4 +65,4 @@
 ## 檔案
 
 - [`h3-music-mv-master-v0-1/SKILL.md`](h3-music-mv-master-v0-1/SKILL.md)：工作邊界、優先規則與主流程。
-- [`h3-music-mv-master-v0-1/references/`](h3-music-mv-master-v0-1/references/)：歌曲拆解、導演曲線、連續性、H3 雙語格式、HTML 結構及交付檢查。
+- [`h3-music-mv-master-v0-1/references/`](https://github.com/shoung/H3-mv-making/tree/main/h3-music-mv-master-v0-1/references)：歌曲拆解、導演曲線、連續性、H3 雙語格式、HTML 結構及交付檢查。
