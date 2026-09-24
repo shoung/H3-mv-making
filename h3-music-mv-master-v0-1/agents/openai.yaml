@@ -1,0 +1,7 @@
+interface:
+  display_name: "故事型音樂 MV 製作"
+  short_description: "繁體中文桌面版 HTML 與中英文圖片、H3 提示詞"
+  default_prompt: "使用 $h3-music-mv-master-v0-1，依我的歌曲或歌詞製作劇情型 MV 分鏡與中英文提示詞，並輸出繁體中文桌面版 HTML。"
+policy:
+  allow_implicit_invocation: true
+
